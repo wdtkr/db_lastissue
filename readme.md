@@ -17,3 +17,11 @@
 * title(タイトル)
 * content(内容)
 * complete_flg(完了したかどうか)
+
+
+drop table if exists [table名];
+
+create database ToDo_db character set utf8 collate utf8_general_ci;
+
+create user 'wdtkr'@'localhost' identified by 'password';
+

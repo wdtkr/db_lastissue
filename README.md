@@ -4,10 +4,10 @@
 会員登録を行いToDoを登録すると、登録したToDoを一覧にして確認することが出来る。
 ## 開発・動作確認環境
 ### 開発環境
-AWS Cloud9
-XAMPP:OS X 7.4.28
-PHP:7.4.30
-Laravel:6.20.44
+AWS Cloud9   
+XAMPP:OS X 7.4.28    
+PHP:7.4.30    
+Laravel:6.20.44   
 Composer:version 2.3.10
 ### 動作確認環境
 OS:macOS BigSur バージョン11.6.5
